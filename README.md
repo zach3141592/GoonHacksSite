@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 npm install first
 
-First, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
