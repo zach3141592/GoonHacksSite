@@ -11,8 +11,8 @@ export default function Home() {
   });
 
   useEffect(() => {
-    // Event date - set to April 15, 2025 (adjust as needed)
-    const eventDate = new Date('2025-04-15T09:00:00');
+    // Event date - set to (adjust as needed)
+    const eventDate = new Date('2025-09-15T09:00:00');
     
     const timer = setInterval(() => {
       const now = new Date().getTime();
