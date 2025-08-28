@@ -103,7 +103,7 @@ export default function Home() {
             Event Countdown
           </h2>
           <p className="text-xl text-[var(--secondary-light)] mb-12">
-            April 15-17, 2025 • Location TBA
+            November 15-17, 2025 • Location TBA
           </p>
           
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-2xl mx-auto">
