@@ -42,7 +42,7 @@ export default function Home() {
     },
     {
       question: "Who can participate?",
-      answer: "Anyone 18+ with a passion for unconventional thinking! Whether you're a developer, designer, marketer, or just someone with wild ideas, you're welcome."
+      answer: "Anyone with a passion for unconventional thinking! Whether you're a developer, designer, marketer, or just someone with wild ideas, you're welcome."
     },
     {
       question: "What should I build?",
