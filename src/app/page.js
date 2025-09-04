@@ -33,7 +33,7 @@ export default function Home() {
 
   const faqs = [
     {
-      question: "What makes GoonHacks different from other hackathons?",
+      question: "What makes GoonHacks different?",
       answer: "We embrace the unconventional! While traditional hackathons focus on typical tech solutions, we encourage projects that tackle taboo subjects, explore controversial topics responsibly, and think outside the box."
     },
     {
