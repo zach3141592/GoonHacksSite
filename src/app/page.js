@@ -49,7 +49,7 @@ export default function Home() {
       answer: "Anything that challenges norms! Apps addressing social taboos, platforms for difficult conversations, tools for underrepresented communities, or anything that makes people think differently."
     },
     {
-      question: "Is this event appropriate/safe?",
+      question: "Is this event appropriate?",
       answer: "Absolutely! While we encourage unconventional thinking, we maintain strict guidelines against harmful content. Think provocative but constructive, edgy but respectful."
     }
   ];
