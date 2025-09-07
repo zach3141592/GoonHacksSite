@@ -55,9 +55,9 @@ export default function Home() {
   ];
 
   const sponsors = [
-    { name: "Discord", tier: "Platinum" },
-    { name: "Replit", tier: "Gold" },
-    { name: "GitHub", tier: "Gold" },
+    { name: "VibeLearn", tier: "Platinum" },
+    { name: "YRI Science", tier: "Gold" },
+    { name: " ", tier: "Gold" },
     { name: "Vercel", tier: "Silver" },
     { name: "MongoDB", tier: "Silver" },
     { name: "Auth0", tier: "Bronze" }
