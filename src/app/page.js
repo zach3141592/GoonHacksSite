@@ -57,7 +57,7 @@ export default function Home() {
   const sponsors = [
     { name: "VibeLearn", tier: "Platinum" },
     { name: "YRI Science", tier: "Gold" },
-    { name: " ", tier: "Gold" },
+    { name: "Bindwell", tier: "Gold" },
     { name: "Vercel", tier: "Silver" },
     { name: "MongoDB", tier: "Silver" },
     { name: "Auth0", tier: "Bronze" }
